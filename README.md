@@ -3,6 +3,8 @@
 <br>
 <div>
   
+<img align="right" src="https://github.com/ChandoraAnkit/ChandoraAnkit/blob/main/android.gif" width="40%"/>
+  
 ### <samp> About Me 🔭 
 - A passionated Android Developer
 - Work at Paytm Money 👨‍💻
