@@ -11,6 +11,6 @@
 
 <h4><b><samp>Techstack</samp></b></h4>
 
-![Android](https://img.shields.io/badge/Android-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-006400?style=flat-square&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-4000ff?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=white)
