@@ -7,7 +7,7 @@
   
 ### <samp> About Me 🔭 
 - A passionated Android Developer
-- Work at Paytm Money 👨‍💻
+- Working at Paytm Money 👨‍💻
 
 </div>
 
