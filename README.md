@@ -7,7 +7,7 @@
   
 ### <samp> About Me 🔭 
 - A passionated Android Developer
-- Working at Paytm Money 👨‍💻
+- Working at ShareChat 👨‍💻
 
 </div>
 
